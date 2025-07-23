@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Sysco-Sample-API-Repo1
-  description: Repo is created by backstage developers.
+  description: The Sysco-Sample-API-Repo is designed to provide sample API specifications aligned with the Sysco API guidelines. These specifications are typically offered in the OpenAPI format, ensuring compliance with industry-standard best practices for API design and documentation. 
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: pep8speaks-org/pep8speaks
