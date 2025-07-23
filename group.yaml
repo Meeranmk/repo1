@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: prodapt
+  description: The Prodapt engineering team
+spec:
+  type: team
+  profile:
+    displayName: Prodapt Team
+    email: prodapt@example.com
+  children: []
+  members:
+    - meeran
+    - kesari
