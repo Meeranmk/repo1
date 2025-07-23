@@ -11,6 +11,6 @@ spec:
   type: service
   lifecycle: development
   owner: user:kesari
-  system: engagement-portal
+  system: repo-portal
   providesApis:
     - repo-api
