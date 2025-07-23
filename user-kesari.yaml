@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: kesari
-  description: Meeran from Prodapt team
+  description: Kesari from Prodapt team
 spec:
   profile:
     displayName: Kesari
