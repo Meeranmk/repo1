@@ -1,1 +1,4 @@
-Backstage is the area behind the scenes in a theater, concert hall, film set, or event venue that is not visible to the audience. It is where performers, crew, props, costumes, and technical equipment are prepared and managed.It includes dressing rooms, makeup rooms, storage for props and costumes, technical control areas (like lighting and sound), and spaces where performers wait before going on stage.
+Software Development Context (Backstage by Spotify):
+Backstage is an open source developer portal framework originally created by Spotify, designed to unify and manage software infrastructure, developer tooling, and technical documentation in a centralized place.
+It provides a consistent user interface that organizes microservices, infrastructure, and software tools, enabling engineering teams to work autonomously yet with visibility and standards.
+
