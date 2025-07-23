@@ -19,5 +19,4 @@ spec:
   providesApis:
     - Sysco-Backend-API1
     - Sysco-Backend-API2
-    - Sysco-Backend-API3
-    - Sysco-Backend-API4
+    
