@@ -10,7 +10,7 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: user:kesari
+  owner: user:Kesari
   system: repo-portal
   providesApis:
     - repo-api
