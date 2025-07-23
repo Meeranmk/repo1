@@ -11,6 +11,6 @@ spec:
   type: service
   lifecycle: development
   owner: user:Kesari
-  system: Sysco-API-portal
+  system: Sysco-API-Portal
   providesApis:
     - repo-api
