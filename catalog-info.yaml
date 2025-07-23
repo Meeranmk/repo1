@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: repo1
+  name: Sysco-Sample-API-Repo1
   description: Repo is created by backstage developers.
   annotations:
     backstage.io/techdocs-ref: dir:.
