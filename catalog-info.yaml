@@ -13,7 +13,7 @@ spec:
   owner: user:Kesari
   system: Sysco-API-Portal
   providesApis:
-    - repo-api1
-    - repo-api2
-    - repo-api3
-    - repo-api4
+    - Sysco-Backend-API1
+    - Sysco-Backend-API2
+    - Sysco-Backend-API3
+    - Sysco-Backend-API4
