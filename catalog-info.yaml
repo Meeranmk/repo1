@@ -14,3 +14,6 @@ spec:
   system: Sysco-API-Portal
   providesApis:
     - repo-api1
+    - repo-api2
+    - repo-api3
+    - repo-api4
