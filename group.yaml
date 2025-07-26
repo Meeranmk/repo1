@@ -3,6 +3,10 @@ kind: Group
 metadata:
   name: prodapt
   description: The Prodapt engineering team
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: team
   profile:
