@@ -4,4 +4,4 @@ metadata:
   name: Sysco-API-Portal
   description: The Repo Portal system which includes services and APIs related to user engagement.
 spec:
-  owner: user:Kesari
+  owner: prodapt
