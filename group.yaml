@@ -9,7 +9,4 @@ spec:
     displayName: Prodapt Team
     email: prodapt@example.com
   children: []
-  members:
-    - meeran
-    - Kesari
-    - vignesh
+ 
