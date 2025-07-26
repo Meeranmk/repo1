@@ -14,7 +14,7 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: user:Kesari
+  owner: prodapt
   system: Sysco-API-Portal
   providesApis:
     - Sysco-Backend-API1
