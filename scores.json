@@ -1,0 +1,15 @@
+[
+  {
+    "id": "component:default/Sysco-Sample-API-Repo1",
+    "entityRef": "component:default/Sysco-Sample-API-Repo1",
+    "scores": [
+      {
+        "id": "documentation",
+        "title": "Documentation",
+        "score": 85,
+        "maxScore": 100,
+        "description": "Service has comprehensive documentation"
+      }
+    ]
+  }
+]
