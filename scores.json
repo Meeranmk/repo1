@@ -1,5 +1,6 @@
 [
   {
+    "metadata" : "Sysco-Sample-API-Repo1"
     "id": "component:default/Sysco-Sample-API-Repo1",
     "entityRef": "component:default/Sysco-Sample-API-Repo1",
     "scores": [
