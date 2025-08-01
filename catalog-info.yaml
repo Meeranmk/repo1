@@ -12,7 +12,7 @@ metadata:
     github.com/project-slug: Meeranmk/portfolio
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/accd1c13-63a5-11f0-b32a-4a480b1bb425-0b668ff98e1318bce14e5de894a27ce7
     scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/repo1/main/scores.json
-    sonarqube.org/project-key:
+    sonarqube.org/project-key: Meeranmk_portfolio
     
 spec:
   type: service
