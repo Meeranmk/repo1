@@ -14,6 +14,7 @@ metadata:
     scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/repo1/main/scores.json
     sonarqube.org/organization-key: meeranmk
     sonarqube.org/project-key: Meeranmk_portfolio
+    snyk.io/org-id: b8a73575-220a-49a3-9fd2-84b7d356df9d
     
 spec:
   type: service
