@@ -17,7 +17,7 @@ metadata:
     snyk.io/org-id: b8a73575-220a-49a3-9fd2-84b7d356df9d
     snyk.io/project-ids: ebf2d853-f133-4fc7-ac4c-ba689ac39c92
     jira.com/project-key: MFLPO
-    jira.com/incoming-issues-status: "new"
+    jira.com/incoming-issues-status: "TO DO"
     
 spec:
   type: service
