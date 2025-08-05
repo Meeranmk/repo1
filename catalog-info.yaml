@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Sysco-Sample-API-Repo1
+  name: sysco-sample-api-repo1
   description: The Sysco-Sample-API-Repo is designed to provide sample API specifications aligned with the Sysco API guidelines. These specifications are typically offered in the OpenAPI format, ensuring compliance with industry-standard best practices for API design and documentation.
   links:
   - url: https://dashboard.example.com
