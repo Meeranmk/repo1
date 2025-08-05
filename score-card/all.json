@@ -10,7 +10,7 @@
     "scoreSuccess": "almost-failure",
     "areaScores": [
       {
-        "title": "Code",
+        "TitleName": "Code",
         "scorePercent": 100,
         "scoreLabel": "Green",
         "scoreSuccess": "success"
