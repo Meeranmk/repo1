@@ -361,22 +361,23 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "non-valid-system"
+      "name": "Sysco-API-Portal
+"
     },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 20,
     "scoreSuccess": "failure",
-    "scoringReviewer": "n/a"
+    "scoringReviewer": "kesari"
   },
   {
     "entityRef": {
       "kind": "system",
-      "name": "audio-playback"
+      "name": "Sysco-API-Portal2"
     },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 57,
-    "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "scoringReviewer": "kesari",
+    "scoringReviewDate": "2025-01-04T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
