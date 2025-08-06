@@ -2,11 +2,11 @@
   {
     "entityRef": {
       "kind": "api",
-      "name": "Sysco-Backend-API1"
+      "name": "Sysco-Backend-API"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
-    "scoringReviewDate": "2022-01-01T08:00:00Z",
+    "scoringReviewDate": "2025-01-01T08:00:00Z",
     "scoreSuccess": "almost-failure",
     "areaScores": [
       {
@@ -46,12 +46,12 @@
     "kind": "component",
     "name": "sysco-sample-api-repo1"
   },
-  "generatedDateTimeUtc": "2021-07-22 10:00",
+  "generatedDateTimeUtc": "2025-07-22 10:00",
   "scorePercent": 57,
   "scoreLabel": "Yellow",
   "scoreSuccess": "almost-failure",
   "scoringReviewer": "kesari",
-  "scoringReviewDate": "2022-01-04T08:00:00Z",
+  "scoringReviewDate": "2025-01-04T08:00:00Z",
   "areaScores": [
     {
       "title": "Extensibility",
@@ -361,7 +361,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "Sysco-API-Portal"
+      "name": "Sysco-UI-Portal"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 20,
