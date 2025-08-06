@@ -543,7 +543,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Maintainability",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
@@ -851,7 +851,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Maintainability",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
@@ -1159,7 +1159,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Maintainability",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
