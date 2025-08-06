@@ -38,7 +38,7 @@
         {
           "id": 2,
           "title": "Static Code Analysis",
-          "scorePercent": 70,
+          "scorePercent": 100,
           "scoreSuccess": "good",
           "howToScore": "Code should be analyzed for quality and security issues.",
           "scoreChoices": [
@@ -68,7 +68,7 @@
         {
           "id": 3,
           "title": "CI/CD Pipeline",
-          "scorePercent": 90,
+          "scorePercent": 50,
           "scoreSuccess": "excellent",
           "howToScore": "Automated build and deployment pipeline should be in place.",
           "scoreChoices": [
