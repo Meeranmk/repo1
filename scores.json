@@ -38,7 +38,7 @@
         {
           "id": 2,
           "title": "Static Code Analysis",
-          "scorePercent": 100,
+          "scorePercent": 40,
           "scoreSuccess": "good",
           "howToScore": "Code should be analyzed for quality and security issues.",
           "scoreChoices": [
