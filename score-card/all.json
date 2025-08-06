@@ -6,7 +6,7 @@
       "name": "prodapt"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 98,
     "scoringReviewer": "kesari",
     "scoringReviewDate": "2025-01-04T08:00:00Z",
     "scoreSuccess": "partial",
@@ -14,7 +14,7 @@
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 90,
+        "scorePercent": 88,
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -57,7 +57,7 @@
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 65,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -121,7 +121,7 @@
       {
         "id": 2208,
         "title": "Operations",
-        "scorePercent": 50,
+        "scorePercent": 60,
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -237,7 +237,7 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 35,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -315,7 +315,7 @@
       "name": "prodapt2"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 75,
     "scoringReviewer": "kesari",
     "scoringReviewDate": "2025-01-04T08:00:00Z",
     "scoreSuccess": "partial",
@@ -323,7 +323,7 @@
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 90,
+        "scorePercent": 80,
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -366,7 +366,7 @@
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 55,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -430,7 +430,7 @@
       {
         "id": 2208,
         "title": "Operations",
-        "scorePercent": 50,
+        "scorePercent": 58,
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -546,7 +546,7 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 45,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -623,7 +623,7 @@
       "name": "prodapt3"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 65,
     "scoringReviewer": "kesari",
     "scoringReviewDate": "2025-01-04T08:00:00Z",
     "scoreSuccess": "partial",
@@ -631,7 +631,7 @@
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 90,
+        "scorePercent": 85,
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -674,7 +674,7 @@
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 78,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -738,7 +738,7 @@
       {
         "id": 2208,
         "title": "Operations",
-        "scorePercent": 50,
+        "scorePercent": 65,
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -854,7 +854,7 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 65,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -911,7 +911,7 @@
       {
         "id": 4328,
         "title": "Security",
-        "scorePercent": 10,
+        "scorePercent": 60,
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
@@ -931,7 +931,7 @@
       "name": "prodapt4"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 58,
     "scoringReviewer": "kesari",
     "scoringReviewDate": "2025-01-04T08:00:00Z",
     "scoreSuccess": "partial",
@@ -939,7 +939,7 @@
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 90,
+        "scorePercent": 50,
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -982,7 +982,7 @@
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 65,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -1046,7 +1046,7 @@
       {
         "id": 2208,
         "title": "Operations",
-        "scorePercent": 50,
+        "scorePercent": 48,
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -1162,7 +1162,7 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 45,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -1219,7 +1219,7 @@
       {
         "id": 4328,
         "title": "Security",
-        "scorePercent": 10,
+        "scorePercent": 45
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
