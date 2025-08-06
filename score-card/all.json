@@ -2,7 +2,7 @@
   {
     "entityRef": {
       "kind": "api",
-      "name": "hello-world"
+      "name": "Sysco-Backend-API1"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
@@ -50,7 +50,7 @@
   "scorePercent": 57,
   "scoreLabel": "Yellow",
   "scoreSuccess": "almost-failure",
-  "scoringReviewer": "Guest",
+  "scoringReviewer": "kesari",
   "scoringReviewDate": "2022-01-04T08:00:00Z",
   "areaScores": [
     {
