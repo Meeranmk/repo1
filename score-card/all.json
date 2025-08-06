@@ -16,7 +16,7 @@
         "scoreSuccess": "success"
       },
       {
-        "title": "Documentationi",
+        "title": "Documentation",
         "scorePercent": 25,
         "scoreLabel": "Red",
         "scoreSuccess": "failure"
