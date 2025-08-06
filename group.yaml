@@ -12,5 +12,7 @@ spec:
   profile:
     displayName: Prodapt Team
     email: prodapt@example.com
+  parent: sysco
+  owner: group:sysco
   children: []
  
