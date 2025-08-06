@@ -991,6 +991,75 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "entityRef": {
+    "kind": "group",
+    "name": "platform-team"
+  },
+  "generatedDateTimeUtc": "2025-07-22T10:00:00Z",
+  "scorePercent": 65,
+  "scoreLabel": "Yellow",
+  "scoreSuccess": "partial",
+  "scoringReviewer": "kesari",
+  "scoringReviewDate": "2025-01-04T08:00:00Z",
+  "areaScores": [
+    {
+      "title": "Team Practices",
+      "scorePercent": 80,
+      "scoreLabel": "Green",
+      "scoreSuccess": "success",
+      "scoreEntries": [
+        {
+          "id": 5001,
+          "title": "Daily Standups",
+          "scorePercent": 100,
+          "scoreLabel": "A",
+          "scoreSuccess": "success",
+          "details": "The team follows agile scrum practices with daily standups."
+        },
+        {
+          "id": 5002,
+          "title": "Retrospectives",
+          "scorePercent": 60,
+          "scoreLabel": "B",
+          "scoreSuccess": "partial",
+          "details": "Retrospectives are conducted monthly instead of bi-weekly."
+        }
+      ]
+    },
+    {
+      "title": "Documentation Ownership",
+      "scorePercent": 50,
+      "scoreLabel": "Yellow",
+      "scoreSuccess": "partial",
+      "scoreEntries": [
+        {
+          "id": 5003,
+          "title": "Team Wiki",
+          "scorePercent": 50,
+          "scoreSuccess": "partial",
+          "details": "Some team documents are available, but need more structure."
+        }
+      ]
+    },
+    {
+      "title": "Tooling & Access",
+      "scorePercent": 70,
+      "scoreLabel": "Green",
+      "scoreSuccess": "success",
+      "scoreEntries": [
+        {
+          "id": 5004,
+          "title": "Tool Access Management",
+          "scorePercent": 70,
+          "scoreSuccess": "success",
+          "details": "Access is managed through IAM but lacks periodic reviews."
+        }
+      ]
+    }
+  ]
+}
+
   
 ]
