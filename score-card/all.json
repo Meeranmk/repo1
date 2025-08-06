@@ -361,8 +361,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "Sysco-API-Portal
-"
+      "name": "Sysco-API-Portal"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 20,
@@ -372,7 +371,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "Sysco-API-Portal2"
+      "name": "Sysco-API-Portal"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 57,
@@ -680,13 +679,13 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "podcast"
+      "name": "Sysco-API-Portal2"
     },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "generatedDateTimeUtc": "2025-07-22 10:00",
     "scorePercent": 57,
     "scoreLabel": "C",
     "scoreSuccess": "partial",
-    "scoringReviewer": "Guest",
+    "scoringReviewer": "kesari",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "areaScores": [
       {
