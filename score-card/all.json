@@ -1,6 +1,5 @@
 [
- 
-{
+ {
     "entityRef": {
       "kind": "group",
       "name": "prodapt"
@@ -308,7 +307,6 @@
       }
     ]
   },
- 
 {
     "entityRef": {
       "kind": "group",
@@ -1233,5 +1231,4 @@
       }
     ]
   }
-  
 ]
