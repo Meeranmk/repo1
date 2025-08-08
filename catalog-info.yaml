@@ -11,7 +11,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Meeranmk/portfolio
     datadoghq.com/dashboard-url: https://p.ap2.datadoghq.com/sb/ac3fd2c1-6cfd-11f0-b359-560ce0421b8a-460e7505190dc3092d4cb46184f8183f
-    scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/repo1/main/scores.json
+    scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/repo1/main/sonarcloud.json
     sonarqube.org/project-key: Meeranmk_portfolio
     snyk.io/org-id: b8a73575-220a-49a3-9fd2-84b7d356df9d
     snyk.io/project-ids: ebf2d853-f133-4fc7-ac4c-ba689ac39c92
