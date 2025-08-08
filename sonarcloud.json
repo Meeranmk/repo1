@@ -1,8 +1,5 @@
 {
-  "entityRef": {
-    "kind": "component",
-    "name": "sysco-sample-api-repo1"
-  },
+  "component": {
     "id": "AZhkznXQlfLyVIoBsL9L",
     "key": "Meeranmk_portfolio",
     "name": "portfolio",
@@ -29,4 +26,5 @@
         "bestValue": true
       }
     ]
+  }
 }
