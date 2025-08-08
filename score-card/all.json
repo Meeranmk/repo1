@@ -1,7 +1,7 @@
 [
  {
     "entityRef": {
-      "kind": "group",
+      "kind": "component",
       "name": "sysco-sample-api-repo1"
     },
     "generatedDateTimeUtc": "2025-07-22 10:00",
@@ -12,7 +12,7 @@
     "areaScores": [
       {
         "id": 2199,
-        "title": "Code Quality",
+        "title": "Code",
         "scorePercent": 90,
         "scoreSuccess": "success",
         "scoreEntries": [
@@ -119,7 +119,7 @@
       },
       {
         "id": 2208,
-        "title": "Testing & Coverage",
+        "title": "Operations",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": [
@@ -235,7 +235,7 @@
       },
       {
         "id": 4333,
-        "title": "Maintainability",
+        "title": "Quality",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
