@@ -1,0 +1,30 @@
+{
+  "component": {
+    "id": "AZhkznXQlfLyVIoBsL9L",
+    "key": "Meeranmk_portfolio",
+    "name": "portfolio",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "bugs",
+        "value": "0",
+        "bestValue": true
+      },
+      {
+        "metric": "code_smells",
+        "value": "4",
+        "bestValue": false
+      },
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      {
+        "metric": "vulnerabilities",
+        "value": "0",
+        "bestValue": true
+      }
+    ]
+  }
+}
