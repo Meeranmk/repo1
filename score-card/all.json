@@ -1,8 +1,9 @@
 [
+  "entityRef": {
+      "kind": "Component",
+      "name": "sysco-sample-api-repo1"
+    },
   {
-    "name": "sysco-sample-api-repo1",
-    "kind": "Component",
-    "owner": "meeran",
     "reviewer": "kesari",
     "date": "10/08/2025",
     "bugs": "95%",
@@ -11,18 +12,5 @@
     "codeSmells": "95%",
     "duplications": "100%",
     "total": "82%"
-  },
-  {
-    "name": "Sysco-Sample-API-Repo2",
-    "kind": "Component",
-    "owner": "meeran",
-    "reviewer": "kesari",
-    "date": "10/08/2025",
-    "bugs": "60%",
-    "documentation": "0%",
-    "vulnerabilities": "95%",
-    "codeSmells": "95%",
-    "duplications": "100%",
-    "total": "73%"
   }
 ]
