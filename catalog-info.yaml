@@ -15,6 +15,7 @@ metadata:
     jira.com/project-key: MFLPO
     jira.com/incoming-issues-status: "TO DO"
     confluence/page-id: "131074"
+    sonarcloud.io/project-key: Meeranmk_portfolio
     
 spec:
   type: service
