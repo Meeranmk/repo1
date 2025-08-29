@@ -17,7 +17,7 @@ metadata:
     confluence/page-id: "131074"
     sonarcloud.io/project-key: Meeranmk_portfolio
     argocd/app-name: python-test-app-1
-    jenkins.io/job-full-name: meeran
+    jenkins.io/job-full-name: testing/testing-01
     
 spec:
   type: service
