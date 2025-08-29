@@ -9,7 +9,6 @@ metadata:
     icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: Meeranmk/portfolio
     datadoghq.com/dashboard-url: https://p.ap2.datadoghq.com/sb/ac3fd2c1-6cfd-11f0-b359-560ce0421b8a-460e7505190dc3092d4cb46184f8183f
     sonarqube.org/project-key: Meeranmk_portfolio
     jira.com/project-key: MFLPO
