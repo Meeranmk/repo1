@@ -18,6 +18,8 @@ metadata:
     argocd/app-name: python-test-app-1
     jenkins.io/job-full-name: testing/testing-01
     github.com/project-slug: Meeranmk/portfolio
+    concourse-ci.io/pipeline: hello-world
+    concourse-ci.io/team: main
     
 spec:
   type: service
