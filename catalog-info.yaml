@@ -17,6 +17,7 @@ metadata:
     sonarcloud.io/project-key: Meeranmk_portfolio
     argocd/app-name: python-test-app-1
     jenkins.io/job-full-name: testing/testing-01
+    github.com/project-slug: Meeranmk/portfolio
     
 spec:
   type: service
