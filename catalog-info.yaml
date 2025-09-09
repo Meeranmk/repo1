@@ -18,7 +18,7 @@ metadata:
     argocd/app-name: python-test-app-1
     jenkins.io/job-full-name: testing/testing-01
     github.com/project-slug: Meeranmk/portfolio
-    concourse-ci.org/pipeline-name: hello-world
+    concourse-ci.org/pipeline-name: sysco-python-app-1-build
    
     
 spec:
