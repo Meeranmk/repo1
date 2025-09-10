@@ -19,6 +19,7 @@ metadata:
     jenkins.io/job-full-name: testing/testing-01
     github.com/project-slug: Meeranmk/portfolio
     concourse-ci.org/pipeline-name: sysco-python-app-1-build
+    concourse-ci.org/team-name: main
    
     
 spec:
