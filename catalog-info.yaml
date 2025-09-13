@@ -20,6 +20,7 @@ metadata:
     github.com/project-slug: Meeranmk/portfolio
     concourse-ci.org/pipeline-name: sysco-python-app-1-build
     concourse-ci.org/team-name: main
+    syscoscore.io/enabled: "true"
    
     
 spec:
