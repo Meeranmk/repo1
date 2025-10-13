@@ -1,4 +1,5 @@
-Project Setup with Podman
+#Project Setup with Podman
+
 Quickstart guide for building and running the frontend and backend applications using Podman.
 
 Prerequisites
